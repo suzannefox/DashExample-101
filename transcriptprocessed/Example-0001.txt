@@ -1,0 +1,1 @@
+AGENT: Hello, how are you?, CLIENT: I am good, how are you?, AGENT: I am good too., CLIENT: That is great to hear., AGENT: Yes, it is., CLIENT: I have a question., AGENT: What is your question?, CLIENT: Can you help me with my account?, AGENT: Yes, I can help you with that., CLIENT: Thank you., AGENT: You are welcome., CLIENT: Goodbye., AGENT: Goodbye.

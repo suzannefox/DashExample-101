@@ -1,0 +1,1 @@
+The Agent and Client greet each other, the Client asks if the agent can help with an account problem, and the Agent agrees that they can.
